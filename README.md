@@ -1,6 +1,6 @@
 # 15 Puzzle Deluxe
 
-A simple Clojure game based on the epic 15-puzzle with GUI based on Seesaw.
+A simple Clojure game based on the epic 15-puzzle with Seesaw GUI.
 
 Copyright © 2014 Mr. Fotev
 
