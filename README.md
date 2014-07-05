@@ -4,4 +4,4 @@ A simple Clojure game based on the epic 15-puzzle with [Seesaw](http://github.co
 
 Copyright © 2014 Mr. Fotev
 
-Distributed under the Eclipse Public License either version 1.0 or any later version.
+Distributed under the Eclipse Public License.
